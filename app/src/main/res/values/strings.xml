@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food Recipes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="calories">Calories per day:</string>
+    <string name="gain_weight">To gain weight:</string>
+    <string name="lose_weight">To lose weight:</string>
+</resources>
